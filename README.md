@@ -19,3 +19,6 @@ One can supply a test set, and the entire training corpora will be used to trian
 Use this command:
 
 python3 classifier.py authorlist -test [author_test_sentences_file].txt
+
+Assignment writeup included in csci5541_hw1_corcoran.pdf
+
